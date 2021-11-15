@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Open Weather</string>
+    <string name="temp">temp</string>
+    <string name="uv_index">uv_index</string>
+    <string name="_3pm">3pm</string>
+    <string name="_1pm">1pm</string>
+    <string name="wind">wind</string>
+    <string name="_8am">8am</string>
+    <string name="_72_f">72°F</string>
+    <string name="_77_f">77°F</string>
+    <string name="_82_f">82°F</string>
+    <string name="brokenclouds">brokenclouds</string>
+    <string name="feelslike">feelslike</string>
+    <string name="humidity">humidity</string>
+
+    <string name="datetime">datetime</string>
+    <string name="rain">rain</string>
+    <string name="_66_f">66°F</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="visibility">visibility</string>
+    <string name="sunset">Sunset</string>
+    <string name="_78_f">78°F</string>
+    <string name="weatherdesc">weatherdesc</string>
+    <string name="today">Today</string>
+    <string name="_2pm">2pm</string>
+    <string name="time2pm">time2pm</string>
+    <string name="dailyforecast">dailyforecast</string>
+    <string name="toggle">toggle</string>
+    <string name="location">location</string>
+    <string name="time3">time3</string>
+    <string name="_60_f">60°F</string>
+    <string name="time2">time2</string>
+    <string name="_51_f">51°F</string>
+    <string name="time1">time1</string>
+    <string name="uvdrv">UVdrv</string>
+    <string name="description">description</string>
+    <string name="probprecipitaion">probprecipitaion</string>
+    <string name="high_low">High/Low</string>
+    <string name="datentime">DatenTime</string>
+    <string name="time4">time4</string>
+    <string name="_68_f">68°F</string>
+    <string name="_55_f">55°F</string>
+    <string name="todo">TODO</string>
+    <string name="alert">alert</string>
+    <string name="hourly1">hourly1</string>
+    <string name="hourly3">hourly3</string>
+    <string name="hourly2">hourly2</string>
+    <string name="hourly4">hourly4</string>
+    <string name="city">city</string>
+    <string name="seattle">seattle</string>
+    <string name="dt">dt</string>
+    <string name="feels_like">feels_like</string>
+    <string name="imageview">imageView</string>
+
+    <string name="_71_f">71°F</string>
+    <string name="broken_clouds">broken_clouds</string>
+    <string name="_5pm">5pm</string>
+    <string name="uvindex">uvindex</string>
+
+    <string name="_11pm">11pm</string>
+    <string name="cityname">cityName</string>
+    <string name="locationame">locationame</string>
+
+    <string name="chicago_illinois">Chicago,Illinois</string>
+
+
+</resources>
